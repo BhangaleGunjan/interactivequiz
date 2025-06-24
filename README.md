@@ -35,9 +35,9 @@ An interactive quiz web app built with **HTML**, **CSS**, and **JavaScript**, fe
   
 ## 🎨 Demo Screenshot
 
-![Quiz](./Images/ss1.jpg)
-![Quiz](./Images/ss2.jpg)
-![Quiz](./Images/ss3.jpg)
+![Quiz](./Images/ss1.png)
+![Quiz](./Images/ss2.png)
+![Quiz](./Images/ss3.png)
 
 ## 🛠 Built With
 - HTML
